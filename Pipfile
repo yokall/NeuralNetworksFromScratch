@@ -1,0 +1,14 @@
+[[source]]
+name = "NeuralNetworksFromScratch"
+url = "https://github.com/yokall/NeuralNetworksFromScratch"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+autopep8 = "*"
+
+[packages]
+numpy = "*"
+
+[requires]
+python_version = "3.8"
